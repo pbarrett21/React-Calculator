@@ -1,0 +1,13 @@
+.Calculator {
+  padding-top: 200px;
+  padding-left: 500px;
+}
+
+.calculatorbuttons {
+  display: grid;
+  grid-template-columns: 40px 40px 40px 40px;
+}
+
+.button{
+  font-size: 20px;
+}
